@@ -48,6 +48,7 @@ body {
   border: none;
   background-color: #ce933e;
   z-index: 200;
+  width: 60px;
 }
 #nav-sp {
   background-color: #ce933e;
@@ -73,6 +74,7 @@ body {
   right: 20px;
   background-color: #ce933e;
   border: none;
+  width: 50px;
 }
 #logo-sp {
   margin: 80px 0 30px 20px;
